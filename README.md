@@ -4,7 +4,7 @@ Project ini dibuat untuk memenuhi tugas pribadi mata kuliah **Pemrograman Web**.
 Menggunakan **Class Form (OOP PHP)** yang sudah dimodifikasi untuk menginput data **produk/jasa/layanan** ke dalam database.  
 
 ## ✨ Fitur
-- Input data produk (nama, harga, deskripsi, kategori, status, dll.)
+- Input data produk (nama, harga, deskripsi, kategori, stok, dll.)
 - Mendukung berbagai tipe input form:
   - Text
   - Password
