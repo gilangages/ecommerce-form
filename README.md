@@ -30,13 +30,15 @@ ecommerce-form/
 
 
 ## ⚙️ Cara Menjalankan
-1. Import database:
+1. Import database di phpMyAdmin:
    - Buka **phpMyAdmin** atau MySQL client.
    - Import file `db/db_produk.sql`.
 2. Letakkan project ini di dalam folder `htdocs` (XAMPP) atau `www` (Laragon).
-3. Akses di browser: http://localhost/ecommerce-form/form-produk/form.php
+3. Buat folder bernama ecommerce-form (atau nama lainnya).
+4. Download semua folder diatas dan masukkan ke folder bernama ecommerce-form (atau nama lainnya).
+5. Akses di browser: http://localhost/ecommerce-form/form-produk/form.php
 
-4. Isi form dan simpan → data akan masuk ke tabel `produk`.
+6. Isi form dan simpan → data akan masuk ke tabel `produk`.
 
 ## 👨‍💻 Author
 - Nama: *Gilang Abdian Anggara*
